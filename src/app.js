@@ -9,4 +9,3 @@ if(require.main === module){
     
 }
 
-console.log("182005");

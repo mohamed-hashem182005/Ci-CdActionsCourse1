@@ -8,3 +8,5 @@ if(require.main === module){
     console.log(great("world"));
     
 }
+
+console.log("182005");

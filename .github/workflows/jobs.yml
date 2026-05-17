@@ -9,7 +9,7 @@ jobs:
       - run: |
           npm install
           npm run bulid
-        working-directory: ./temp
+     
         shell: bash
         # pwsh, cmd, powershell, python
 

@@ -7,8 +7,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: |
-          npm install
-          npm run bulid
+         
         shell: bash
         # pwsh, cmd, powershell, python
 
